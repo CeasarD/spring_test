@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean id = "u" class = "com.taiji.dao.impl.UsrDaoImpl"/>
+<bean id = "service" class = "com.taiji.service.UsrService">
+	<property name = "usrDao" bean = "u"></property>
+</bean>
+</beans>

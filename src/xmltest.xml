@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HD>
+	<disk name = "c">
+		<capacity>
+		80
+		</capacity>
+	</disk>
+	<disk name = "d">
+		<capacity>160</capacity>
+	</disk>
+</HD>
